@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local backup / notes files
+app_backup_notes.py
+app_notes.txt
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit local state & secrets
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
